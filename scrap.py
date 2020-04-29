@@ -12,7 +12,7 @@ dlnum ="DL-0420110149646"    #"DL-1020150363697" there are two sets to use
 dob =  "09-02-1976"      #"28-01-1996"
 
 # Step -1 get the instance of the driver and reach the requested url
-driver = webdriver.Chrome()  #Replace the path to web driver
+driver = webdriver.Chrome()  #Replace the path to web driver. just replace the broser name as per rquirement
 driver.get("https://parivahan.gov.in/rcdlstatus/?pur_cd=101")
 driver.implicitly_wait(10)
 
