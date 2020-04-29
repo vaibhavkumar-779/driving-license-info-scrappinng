@@ -13,7 +13,7 @@ Creating a record of driving license information from parivahan website(https://
  The answer is printed then.
  
  # PREREQUISITE
- 1.webdriver(I have used chromedriver since I had Google Chrome in my system.You can use any other Just replace it from webdriver code)
- 2.selenium library(check if you have it in your system or not. Otherwise install it using "pip install selenium on terminal"
- 3.Browser(preferably Chrome)
- 4.Internet
+ 1. webdriver(I have used chromedriver since I had Google Chrome in my system.You can use any other Just replace it from   webdriver code)
+ 2. selenium library(check if you have it in your system or not. Otherwise install it using "pip install selenium on terminal"
+ 3. Browser(preferably Chrome)
+ 4. Internet
