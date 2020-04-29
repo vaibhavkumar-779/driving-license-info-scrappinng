@@ -8,7 +8,7 @@ def get_captcha():
 # Step -0 Get the input from the user
 # dlnum = input("Enter the DL no.")
 # dob = input("Enter date of birth as dd-mm-yyyy")
-dlnum ="DL-0420110149646"    #"DL-1020150363697"
+dlnum ="DL-0420110149646"    #"DL-1020150363697" there are two sets to use
 dob =  "09-02-1976"      #"28-01-1996"
 
 # Step -1 get the instance of the driver and reach the requested url
